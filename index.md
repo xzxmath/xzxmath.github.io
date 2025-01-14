@@ -23,7 +23,9 @@ I'm writing some lecture notes of classes in Qiuzhen College. You can view the p
 ---
 ## Learning Interests
 
-**<font color="#990000">I am actively seeking a PhD position for 2027 Fall admission. If you have any information, please contact me!</font>**
+<!-- **<font color="#990000">I am actively seeking a PhD position for 2027 Fall admission. If you have any information, please contact me!</font>** -->
+<!-- <br> -->
+
 My current learning focus on 
 
 - Machine Learning and Deep Learning
