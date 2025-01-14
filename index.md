@@ -31,5 +31,5 @@ My current learning focus on
 
 ## News and Updates
 
-- **Jan 2025：**Created this personal website using templates by [Zunxuan Xiao](https://caihanlin.com/). Cheers to 2025!
+- **Jan 2025：**Created this personal website using templates by [Hanlin Cai](https://caihanlin.com/). Cheers to 2025!
 
