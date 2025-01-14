@@ -23,7 +23,7 @@ title: Hobbies
 <img src="/images/paint2.JPG">
 <img src="/images/paint3.JPG">
 </div>
-<br>I previously enjoyed swimming, skiing, drawing and soft brush calligraphy. However, all of them are waiting for me to pick up at present. Pictures above are the painting I drawn when I was a kid.
+<br>I previously enjoyed swimming, skiing, drawing and soft brush calligraphy. However, all of them are waiting for me to pick up at present. Pictures above are the paintings I drawn when I was a kid. They're quite abstract, indeed.
 
 ## My Love
 
