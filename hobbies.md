@@ -13,7 +13,7 @@ title: Hobbies
 <img src="/images/spike2.PNG">
 <img src="/images/receive1.PNG">
 </div>
-<br>Volleyball taught me reflection, gives me team spirit, and brings me courage to address any challenges. I extremely enjoy the feeling of shouldering the reponsibility scoring after a long round. Besides, I am a member of the Volleyball Team at Tsinghua University and Qiuzhen college, where I meet many sincere friends. 
+<br>Volleyball taught me reflection, gave me team spirit, and brought me courage to address any challenges. I extremely enjoy the feeling of shouldering the reponsibility and scoring after a long round. Besides, I am a member of the Volleyball Team at Tsinghua University , where I meet many sincere friends. 
 
 
 ## Past Hobbies
@@ -23,7 +23,7 @@ title: Hobbies
 <img src="/images/paint2.JPG">
 <img src="/images/paint3.JPG">
 </div>
-<br>I previously enjoyed swimming, skiing, drawing and soft brush calligraphy. However, all of them are waiting for me to pick up. Pictures above are the painting I drawn when I was a kid.
+<br>I previously enjoyed swimming, skiing, drawing and soft brush calligraphy. However, all of them are waiting for me to pick up at present. Pictures above are the painting I drawn when I was a kid.
 
 ## My Love
 
