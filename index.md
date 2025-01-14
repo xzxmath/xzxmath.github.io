@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://xzxmath.github.io/zunxuan.jpg" class="floatpic">
 
-Hi, I'm  **Zunxaun Xiao (Zach Shawn, 肖尊轩)**.<br>
+Hi, I'm  **Zunxaun Xiao (Shawn, 肖尊轩)**.<br>
 
 I am a sophomore student in Qiuzhen college at Tsinghua University.
 
