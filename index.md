@@ -24,6 +24,7 @@ My current learning focus on
 
 - Machine Learning and Deep Learning
 - Mathematical Satistics
+- French (A beginner)
 
 
 
