@@ -27,7 +27,7 @@ title: Hobbies
 
 ## My Friends
 
-Yi Feng, Yufeng Liu, Yikun Rao, Ziyi Cao, Xin Liu.
+Yi Feng, Yufeng Liu, Yikun Rao, Ziyi Chen, Xin Liu.
 
 <div>
 <img src="/images/Us.jpg">
