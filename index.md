@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://xzxmath.github.io/zunxuan.jpg" class="floatpic">
+<img src="https://xzxmath.github.io/zunxuan_v2.jpg" class="floatpic">
 
 Hi, I'm  **Zunxaun Xiao (Shawn, 肖尊轩)**.<br>
 
@@ -22,15 +22,19 @@ If you are interested in any aspect of me, I am always open to discussions and s
 
 My current learning focus on 
 
-- Machine Learning and Deep Learning
-- Mathematical Satistics
-- French (A beginner)
+- Reinforcement Learning
+- Generative Model
+- Probability
+- French 
 
 
 
 ---
 
 ## News and Updates
+
+
+- **Jul 2025：**Modified. Congratulations on the holding of ICBS2025.
 
 - **Jan 2025：**Created this personal website using templates by [Hanlin Cai](https://caihanlin.com/). Cheers to 2025!
 
